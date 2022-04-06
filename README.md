@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hekimianz
-Im a web dev student from Mexico currently loving the journey to becoming a developer!
-Contact Me:
-Twitter: @guerreroHek
-Instagram: @hekimian_
+Im a web dev student from Mexico currently loving the journey to becoming a developer! <br>
+Contact Me: <br>
+Twitter: @guerreroHek <br>
+Instagram: @hekimian_ <br>
 Email: aramhekdesign@gmail.com
 
 <!---
