@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hekimianz
+- 👋 Hi, I’m Aram Hekimian Guerrero
 Im a web dev student from Mexico! 🇲🇽 <br>
 Contact Me: <br>
 Twitter: @guerreroHek <br>
