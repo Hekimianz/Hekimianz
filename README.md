@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Aram Hekimian Guerrero</h1>
-<h2>Im a web dev student from Mexico! 🇲🇽</h2>
+<h2>Im a developer from Mexico! 🇲🇽</h2>
 Contact Me: <br>
 Twitter: @guerreroHek <br>
 Instagram: @hekimian_ <br>
