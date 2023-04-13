@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Aram Hekimian Guerrero</h1>
 <h2>Im a developer from Mexico! 🇲🇽</h2>
 Contact Me: <br>
-Twitter: @HekCodes <br>
+Twitter: @hekCodes <br>
 Instagram: @hekimian_ <br>
 Email: aramhek121@gmail.com
 
