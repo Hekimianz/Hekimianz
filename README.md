@@ -1,9 +1,9 @@
 <h1>👋 Hi, I’m Aram Hekimian Guerrero</h1>
 <h2>Im a developer from Mexico! 🇲🇽</h2>
 Contact Me: <br>
-Twitter: @guerreroHek <br>
+Twitter: @HekCodes <br>
 Instagram: @hekimian_ <br>
-Email: aramhekdesign@gmail.com
+Email: aramhek121@gmail.com
 
 <!---
 Hekimianz/Hekimianz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
