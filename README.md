@@ -1,7 +1,6 @@
 <h1>👋 Hi, I’m Aram Hekimian Guerrero</h1>
 <h2>Software Engineer at @100Devs from Mexico focused on full stack development! 🇲🇽</h2>
 Contact Me: <br>
-Twitter/X: @hekicode <br>
 Instagram: @hekimian_ <br>
 Email: guerrerohek121@gmail.com
 
