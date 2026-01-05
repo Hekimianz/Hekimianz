@@ -1,11 +1,13 @@
-<h1>👋 Hi, I’m Aram Hekimian Guerrero</h1>
-<h2>Software Engineer from Mexico focused on full stack development! 🇲🇽</h2>
-<h2><a target="_blank" href="https://aram-portfolio.netlify.app">Portfolio</a></h2>
-<h3>Contact Me:</h3>
-Instagram: @hekimian_ <br>
-Email: guerrerohek121@gmail.com
+# Hi, I'm Aram 👋
 
-<!---
-Hekimianz/Hekimianz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full-Stack Developer** based in **Mexico City 🇲🇽**, passionate about building web applications that are both technically solid and thoughtfully designed.
+
+My work focuses on **React, Next.js, Node.js, and NestJS**, where I enjoy architecting scalable systems, modeling clean data structures, and creating intuitive user experiences. I like working across the stack — from backend logic and APIs to frontend interfaces that feel simple and purposeful.
+
+I’m driven by curiosity and continuous learning, always looking to improve my craft and explore better ways to build reliable, maintainable products. Whether it’s a full-scale platform, a real-time application, or a small experimental project, I care deeply about clarity, structure, and user impact.
+
+### 🌐 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/hekimian/
+- 🚀 Portfolio: https://aram-portfolio.netlify.app
+
+Thanks for stopping by — feel free to explore my projects or reach out!
